@@ -1,0 +1,12 @@
+# Pre-Test Interview Questions
+- How old are you?
+- Which gender do you identify with?
+- What is your level of education?
+- What is your field of study/work?
+- How much experience do you have in your field of study? If you are still studying, what is your course and semester?
+- How often do you use a computer?
+- How often do you use the internet?
+- Which browser do you use (e.g., Google Chrome, Firefox, Opera, Explorer, Safari)?
+- Do you know what a histological structure is?
+- Have you ever visited a website to view any histological structures? Which one(s)?
+- (For pathologists only) What is your difficulty in characterizing this type of structure? On a scale of 1 to 3, where 1 is minimal and 3 is maximal.

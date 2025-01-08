@@ -1,0 +1,78 @@
+Participant,Task,Time (seconds),Correct,Training,Genre,Profile,Experience Time (years)
+P1,T01,50,Yes,Yes,M,Computer Scientist,10
+P1,T02,38,Yes,Yes,M,Computer Scientist,10
+P1,T03,12,Yes,Yes,M,Computer Scientist,10
+P1,T04,0,Yes,Yes,M,Computer Scientist,10
+P1,T05,10,Yes,Yes,M,Computer Scientist,10
+P1,T06,69,Yes,Yes,M,Computer Scientist,10
+P1,T07,147,No,Yes,M,Computer Scientist,10
+P1,T08,15,Yes,Yes,M,Computer Scientist,10
+P1,T09,5,Yes,Yes,M,Computer Scientist,10
+P1,T10,6,Yes,Yes,M,Computer Scientist,10
+P1,T11,87,Yes,Yes,M,Computer Scientist,10
+P2,T01,10,Yes,Yes,M,Computer Scientist,6
+P2,T02,31,Yes,Yes,M,Computer Scientist,6
+P2,T03,27,Yes,Yes,M,Computer Scientist,6
+P2,T04,0,Yes,Yes,M,Computer Scientist,6
+P2,T05,9,Yes,Yes,M,Computer Scientist,6
+P2,T06,21,Yes,Yes,M,Computer Scientist,6
+P2,T07,32,No,Yes,M,Computer Scientist,6
+P2,T08,10,Yes,Yes,M,Computer Scientist,6
+P2,T09,7,Yes,Yes,M,Computer Scientist,6
+P2,T10,6,Yes,Yes,M,Computer Scientist,6
+P2,T11,24,Yes,Yes,M,Computer Scientist,6
+P3,T01,20,Yes,No,M,Computer Scientist,3
+P3,T02,84,No,No,M,Computer Scientist,3
+P3,T03,32,Yes,No,M,Computer Scientist,3
+P3,T04,17,Yes,No,M,Computer Scientist,3
+P3,T05,6,Yes,No,M,Computer Scientist,3
+P3,T06,46,Yes,No,M,Computer Scientist,3
+P3,T07,112,No,No,M,Computer Scientist,3
+P3,T08,10,Yes,No,M,Computer Scientist,3
+P3,T09,2,Yes,No,M,Computer Scientist,3
+P3,T10,14,Yes,No,M,Computer Scientist,3
+P3,T11,75,Yes,No,M,Computer Scientist,3
+P4,T01,11,Yes,Yes,M,Pathologist,6
+P4,T02,25,Yes,Yes,M,Pathologist,6
+P4,T03,19,Yes,Yes,M,Pathologist,6
+P4,T04,0,Yes,Yes,M,Pathologist,6
+P4,T05,41,Yes,Yes,M,Pathologist,6
+P4,T06,65,Yes,Yes,M,Pathologist,6
+P4,T07,148,No,Yes,M,Pathologist,6
+P4,T08,4,Yes,Yes,M,Pathologist,6
+P4,T09,2,Yes,Yes,M,Pathologist,6
+P4,T10,9,Yes,Yes,M,Pathologist,6
+P4,T11,43,Yes,Yes,M,Pathologist,6
+P5,T01,20,Yes,Yes,M,Pathologist,
+P5,T02,30,Yes,Yes,M,Pathologist,
+P5,T03,11,Yes,Yes,M,Pathologist,
+P5,T04,0,Yes,Yes,M,Pathologist,
+P5,T05,9,Yes,Yes,M,Pathologist,
+P5,T06,18,Yes,Yes,M,Pathologist,
+P5,T07,71,No,Yes,M,Pathologist,
+P5,T08,10,Yes,Yes,M,Pathologist,
+P5,T09,2,Yes,Yes,M,Pathologist,
+P5,T10,10,Yes,Yes,M,Pathologist,
+P5,T11,37,Yes,Yes,M,Pathologist,
+P6,T01,30,Yes,No,F,Pathologist,8
+P6,T02,78,Yes,No,F,Pathologist,8
+P6,T03,17,Yes,No,F,Pathologist,8
+P6,T04,19,Yes,No,F,Pathologist,8
+P6,T05,10,Yes,No,F,Pathologist,8
+P6,T06,49,Yes,No,F,Pathologist,8
+P6,T07,58,No,No,F,Pathologist,8
+P6,T08,19,Yes,No,F,Pathologist,8
+P6,T09,20,No,No,F,Pathologist,8
+P6,T10,10,Yes,No,F,Pathologist,8
+P6,T11,136,Yes,No,F,Pathologist,8
+P7,T01,36,Yes,No,F,Pathologist,5.5
+P7,T02,22,No,No,F,Pathologist,5.5
+P7,T03,129,Yes,No,F,Pathologist,5.5
+P7,T04,15,Yes,No,F,Pathologist,5.5
+P7,T05,9,Yes,No,F,Pathologist,5.5
+P7,T06,158,No,No,F,Pathologist,5.5
+P7,T07,63,No,No,F,Pathologist,5.5
+P7,T08,37,Yes,No,F,Pathologist,5.5
+P7,T09,35,Yes,No,F,Pathologist,5.5
+P7,T10,7,Yes,No,F,Pathologist,5.5
+P7,T11,180,No,No,F,Pathologist,5.5
