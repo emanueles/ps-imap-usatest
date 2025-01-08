@@ -6,4 +6,4 @@ Title: PS-iMAP: An interactive mapping tool for fostering collaboration between 
 
 
 
-This repository contains data used for usability tests and analysis of test results. The analysis was performed in a Python Notebook. 
+This repository contains data used for usability tests and analysis of quantitative test results. The analysis was performed in a Python Notebook. 
